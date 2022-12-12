@@ -30,5 +30,7 @@ public Boolean companionPlants(String plant1, String plant2) {
         else {
             return false;
         }
+    } else {
+        return false;
     } 
 }
